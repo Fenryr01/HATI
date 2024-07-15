@@ -1,6 +1,6 @@
 {
-    "name": "web_prueba",
-    "short_name": "web_prueba",
+    "name": "hati_pwa",
+    "short_name": "hati_pwa",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
