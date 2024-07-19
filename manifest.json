@@ -1,6 +1,6 @@
 {
-    "name": "hati_pwa",
-    "short_name": "hati_pwa",
+    "name": "HATI",
+    "short_name": "HATI",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -10,26 +10,9 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
+            "src": "icons/ico4_favi.png",
+            "sizes": "256x256",
             "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-maskable-192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "icons/Icon-maskable-512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
         }
     ]
 }
