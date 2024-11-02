@@ -1,6 +1,6 @@
 {
-    "name": "HATI",
-    "short_name": "HATI",
+    "name": "hati_estatica",
+    "short_name": "hati_estatica",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
